@@ -1,0 +1,22 @@
+nav{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    width:95vw;
+    margin-top: -291px;
+    padding: 20px;
+
+}
+
+li{
+    color: white;
+    list-style: none;
+}
+h1{
+    text-align: center;
+}
+
+.red{
+    background-color: red;
+    color: white;
+}
